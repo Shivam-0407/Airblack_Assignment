@@ -1,0 +1,8 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+:root {
+  --gradient-border: linear-gradient(90deg, #E74D85 0%, rgba(231, 77, 133, 0) 100%);
+}

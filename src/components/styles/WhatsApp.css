@@ -1,0 +1,8 @@
+.whatsapp{
+    display: flex;
+    gap: 15px;
+}
+
+.whatsapp input{
+    width: 100%;
+}

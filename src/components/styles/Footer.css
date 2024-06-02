@@ -1,0 +1,56 @@
+.footer-background-container {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    background-image: url("/src/components/styles/why_Airblack.png");
+    background-size: cover;
+    color: white;
+    padding: 16vw;
+}
+
+.footer-background-container h3 {
+    padding: 5vw;
+    font-size: 7vw;
+}
+.company-tags {
+    display: flex;
+    gap: 20px;
+    margin-top: 3vw;
+    justify-content: center;
+}
+
+.insta-container {
+    width: 34px;
+    height: 34;
+}
+
+.insta-container img {
+    width: 100%;
+}
+
+.fb-container {
+    width: 34px;
+    height: 34px;
+}
+
+.fb-container img {
+    width: 100%;
+}
+
+.linkedIn-container {
+    width: 34px;
+    height: 34px;
+}
+
+.linkedIn-container img {
+    width: 100%;
+}
+
+.twitter-container {
+    width: 34px;
+    height: 34px;
+}
+
+.twitter-container img {
+    width: 100%;
+}

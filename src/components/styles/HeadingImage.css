@@ -1,0 +1,20 @@
+.back-imges{
+    display: flex;
+}
+
+.img-container-1{
+    width: 25%;
+    max-height: 150px;
+}
+.img-container-1 img{
+    width: 100%;
+}
+.img-container-2{
+    width: 25%;
+}
+.img-container-3{
+    width: 25%;
+}
+.img-container-4{
+    width: 25%;
+}

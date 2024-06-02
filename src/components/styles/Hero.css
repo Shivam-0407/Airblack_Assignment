@@ -1,0 +1,78 @@
+.hero-container {
+    background-color: black;
+    color: white;
+    padding: 5vw;
+}
+
+.hero-container h1{
+    font-size: 24px;
+    margin-bottom: 12px;
+}
+
+.certificate-ratings-container{
+    background-color: black;
+    display: flex;
+    gap: 4.5vw;
+}
+
+.certificate-container {
+    background-color: #FFFFFF24;
+    display: flex;
+    justify-content: center;
+    border-radius: 0.5vw;
+    width: 55%;
+    gap: 2vw;
+    padding: 1.5vw 3.4vw;
+    flex-wrap: nowrap;
+}
+.certificate-img-container{
+    width: 4%;
+}
+.certificate-img-container img{
+    width: 100%;
+}
+.certificate-prog{
+    color: white;
+    font-size: 14px;
+}
+
+.star-rating{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+.star-logo-container{
+    width: 8%;
+}
+.star-rating p{
+    color:#F7C852;
+}
+
+.star-logo-container img{
+    width: 100%;
+}
+
+.points-container{
+    margin-top: 10px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.tick-img-container{
+    width: 14px;
+    height: 14px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.tick-img-container img{
+    width: 100%;
+}
+.key-points{
+    display: flex;
+    gap: 10px;
+    
+}

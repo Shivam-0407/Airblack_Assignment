@@ -1,0 +1,1 @@
+export const points = [`India's No. 1 Online Makeup Course`,`Learn by LIVE Do-it-Together Classes`,`Unlimited Practice Session to master skills`]

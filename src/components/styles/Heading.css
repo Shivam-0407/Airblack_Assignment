@@ -1,0 +1,30 @@
+
+.background-img-container{
+    filter: brightness(0.5);
+}
+.image1-container{
+    height: 124px;
+}
+
+.image1-container img{
+    width: 100%;
+    
+}
+.company-logo{
+    position:absolute;
+    width: 68px;
+    height: 29px;
+    top: 25%;
+    left: 41%;
+}
+
+.company-logo img{
+    width: 100%;
+}
+
+.Heading-container p{
+    color: white;
+    position: absolute;
+    top: 49%;
+    left: 41%;
+}
